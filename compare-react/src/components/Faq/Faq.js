@@ -1,4 +1,4 @@
-import React, {Compnent} from 'react';
+import React, {Component} from 'react';
 
 class Faq extends Component {
   render() {

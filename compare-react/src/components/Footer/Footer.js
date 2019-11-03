@@ -11,15 +11,16 @@ const Footer = () => {
 
     return (
       <div>
-        <footter classNmae="footer is-primary">
+        <footer className="footer is-primary">
         <div className="container">
-        <div className="columns">
-        <div className='column'>
-          <p>And this right here is a spiffy footer</p>
+          <div className="columns">
+          <div className='column'>
+            <p>And this right here is a spiffy footer</p>
           </div>
           <div className="column has-text-right">
             <a className="icon" href="#"><i className="fa fa-facebook"></i></a>
             <a className="icon" href="#"><i className="fa fa-twitter"></i></a>
+          </div>
           </div>
           </div>
         </footer>
